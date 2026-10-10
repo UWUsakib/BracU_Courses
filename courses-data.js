@@ -3,10 +3,10 @@ window.COURSES = {
    cse: {
       title: "CSE Courses", lead: "Core Computer Science & Engineering courses.", color: "#3b82f6", list: [
          ["CSE110", "Programming Language I", "Fundamentals of programming and problem solving.", "https://docs.google.com/document/d/1XdPhcFhxE4Hj0NDyFFa5moZHWwfR3ao26iX1hftjDrc/edit?usp=sharing", "Fall22"],
-         ["CSE111", "Programming Language II", "Object-oriented programming concepts.", "https://drive.google.com/drive/folders/1I4JfpayClDDgCffPHXsz3CksRiMaW7ng?usp=drive_link", "spring23"],
+         ["CSE111", "Programming Language II", "Object-oriented programming concepts.", "https://docs.google.com/document/d/1IhTZ-JVQxB2jo6m8C3lPmgi_2DGGotzEf3fxWcMwvzw/edit?usp=sharing", "spring23"],
          ["CSE220", "Data Structures", "Lists, stacks, queues, trees, graphs and hashing.", "", ""],
          ["CSE221", "Algorithms", "Algorithm design, analysis and complexity.", "https://docs.google.com/spreadsheets/d/1PxQOuFl3fP7RPC4BzdiAxLyaLTVpgkgLlZdc1FVGN2s/edit?usp=sharing", "Spring24"],
-         ["CSE230", "Discrete Mathematics", "Logic, sets, counting, relations and graphs.", "", ""],
+         ["CSE230", "Discrete Mathematics", "Logic, sets, counting, relations and graphs.", "https://docs.google.com/document/d/1WQL5d9yBLb3Aw5odIuEHln1IfW3OCXewWCC5TaG4UBU/edit?usp=sharing", "Fall23"],
          ["CSE250", "Circuits and Electronics", "Basic circuit analysis and electronic devices.", "https://docs.google.com/document/d/14ime1PD3tlrL33ld0bYxBhbVp--wOXNXVY4RsIUaQFY/edit?usp=sharing", "Fall24"],
          ["CSE251", "Electronic Devices and Circuits", "Semiconductor devices and analog circuits.", "https://docs.google.com/document/d/1Xvm1mM6zSdnPW8jaZ45C25BOjbtITL0kmkaAudAEock/edit?usp=sharing", "Spring25"],
          ["CSE260", "Digital Logic Design", "Boolean algebra, combinational and sequential circuits.", "https://docs.google.com/spreadsheets/d/1Tn5AIe9wozfjlnj-fm8ODslO4QqIDaY5sWzFHlYLgso/edit?usp=drive_link", "Summer25"],
@@ -26,7 +26,7 @@ window.COURSES = {
          ["CSE461", "Introduction to Robotics", "Kinematics, sensors and control.", "https://docs.google.com/spreadsheets/d/1SJISxezFT_MjvwO-PSxji63CZX45LpnKPP8t7eapcF0/edit?usp=sharing", "Fall26"],
          ["CSE470", "Software Engineering", "Requirements, design, testing and project management.", "https://docs.google.com/document/d/10fYQSAZ5R5wpVcv_6iKoHm1ZK8jO3HD1-vFs1pDmJWc/edit?usp=sharing", "Spring25"],
          ["CSE471", "System Analysis and Design", "Modelling and designing information systems.", "https://docs.google.com/spreadsheets/d/1v3cG0BLTL8eg7wrR7DVQ6EcwiDWHe_I74TYsN_xfLzY/edit?usp=sharing", "Spring27"],
-         ["PHY111", "Principles of Physics I", "Mechanics, waves and thermodynamics.", "https://docs.google.com/document/d/1Rv_v4CF2qVQhB7aD98_9K0doAQE-w7EILwTeh6mlwcQ/edit?tab=t.0", "Fall23"],
+         ["PHY111", "Principles of Physics I", "Mechanics, waves and thermodynamics.", "https://docs.google.com/document/d/1H8GjpsXXHjN1toHG4HOG41SdWVnhXvKJj00DB9hpaBE/edit?usp=drive_link", "Fall23"],
          ["PHY112", "Principles of Physics II", "Electricity, magnetism and optics.", "https://docs.google.com/spreadsheets/d/1QjVV7R5hzNVYRTwIl47XxRGMC4BckQ_dKTPWlaSkqEY/edit?usp=sharing", "spring26"],
          ["MAT110", "Calculus I", "Limits, derivatives and applications.", "", ""],
          ["MAT120", "Calculus II", "Integration, series and multivariable basics.", "https://drive.google.com/drive/folders/1VsA0lJs8HFhOez_D2YGOJf68YGA7euSw", "Spring24"],
