@@ -2,7 +2,7 @@
 window.COURSES = {
    cse: {
       title: "CSE Courses", lead: "Core Computer Science & Engineering courses.", color: "#3b82f6", list: [
-         ["CSE110", "Programming Language I", "Fundamentals of programming and problem solving.", "https://drive.google.com/drive/folders/120kIPQNqYLrC9iMM13JEkHSXTnH7bnU5?usp=drive_link", "Fall22"],
+         ["CSE110", "Programming Language I", "Fundamentals of programming and problem solving.", "https://docs.google.com/document/d/1XdPhcFhxE4Hj0NDyFFa5moZHWwfR3ao26iX1hftjDrc/edit?usp=sharing", "Fall22"],
          ["CSE111", "Programming Language II", "Object-oriented programming concepts.", "https://drive.google.com/drive/folders/1I4JfpayClDDgCffPHXsz3CksRiMaW7ng?usp=drive_link", "spring23"],
          ["CSE220", "Data Structures", "Lists, stacks, queues, trees, graphs and hashing.", "", ""],
          ["CSE221", "Algorithms", "Algorithm design, analysis and complexity.", "https://docs.google.com/spreadsheets/d/1PxQOuFl3fP7RPC4BzdiAxLyaLTVpgkgLlZdc1FVGN2s/edit?usp=sharing", "Spring24"],
