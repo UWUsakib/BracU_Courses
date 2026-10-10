@@ -1,0 +1,12 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BracU Courses</title><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css"></head><body>
+<header class="nav"><a class="logo" href="index.html"><b>BracU</b><span>Courses</span></a></header>
+<section class="hero"><div class="smoke"><i></i><i></i><i></i><i></i></div><div class="grain"></div>
+<div class="badge">▤ &nbsp;BRAC University · All your courses in one place</div>
+<h1>Find your courses faster.<span class="grad">All in one platform.</span></h1>
+<p class="sub">Browse CSE, COD and Elective courses at BracU. Pick a category below and explore everything you need to plan your semester.</p>
+<div class="cta-label">Courses</div>
+<div class="course-btns"><a class="cbtn cse" href="cse.html">CSE courses</a><a class="cbtn cod" href="cod.html">COD courses</a><a class="cbtn elec" href="elective.html">Elective courses</a></div>
+<div class="ticker"><div id="tk"></div></div></section>
+<script src="courses-data.js"></script><script>const all=[...COURSES.cse.list,...COURSES.elective.list].map(c=>'<span><em>'+c[0]+'</em>'+c[1]+'</span>').join('');document.getElementById('tk').innerHTML=all+all</script>
+<script src="nav.js"></script>
+</body></html>
