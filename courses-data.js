@@ -4,7 +4,7 @@ window.COURSES = {
       title: "CSE Courses", lead: "Core Computer Science & Engineering courses.", color: "#3b82f6", list: [
          ["CSE110", "Programming Language I", "Fundamentals of programming and problem solving.", "https://docs.google.com/document/d/1XdPhcFhxE4Hj0NDyFFa5moZHWwfR3ao26iX1hftjDrc/edit?usp=sharing", "Fall22"],
          ["CSE111", "Programming Language II", "Object-oriented programming concepts.", "https://docs.google.com/document/d/1IhTZ-JVQxB2jo6m8C3lPmgi_2DGGotzEf3fxWcMwvzw/edit?usp=sharing", "spring23"],
-         ["CSE220", "Data Structures", "Lists, stacks, queues, trees, graphs and hashing.", "", ""],
+         ["CSE220", "Data Structures", "Lists, stacks, queues, trees, graphs and hashing.", "https://docs.google.com/spreadsheets/d/1CrF2ULoBlSL99vK9O_odDa-ddBR0uSFZrV9j0fya8n8/edit?usp=sharing", ""],
          ["CSE221", "Algorithms", "Algorithm design, analysis and complexity.", "https://docs.google.com/spreadsheets/d/1PxQOuFl3fP7RPC4BzdiAxLyaLTVpgkgLlZdc1FVGN2s/edit?usp=sharing", "Spring24"],
          ["CSE230", "Discrete Mathematics", "Logic, sets, counting, relations and graphs.", "https://docs.google.com/document/d/1WQL5d9yBLb3Aw5odIuEHln1IfW3OCXewWCC5TaG4UBU/edit?usp=sharing", "Fall23"],
          ["CSE250", "Circuits and Electronics", "Basic circuit analysis and electronic devices.", "https://docs.google.com/document/d/14ime1PD3tlrL33ld0bYxBhbVp--wOXNXVY4RsIUaQFY/edit?usp=sharing", "Fall24"],
