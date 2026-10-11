@@ -23,7 +23,7 @@ window.COURSES = {
          ["CSE422", "Artificial Intelligence", "Search, knowledge representation and reasoning.", "https://docs.google.com/spreadsheets/d/1njn7QdQHVd2iM78bkeKzO52Fd2E8wjb6eq09YuYMivA/edit?gid=0#gid=0", "Fall25"],
          ["CSE423", "Computer Graphics", "Rendering, transformations and visualisation.", "https://docs.google.com/document/d/1mPIIFsgQiIfNMUxNdutliUd_YqWdwX3mIngUwcAEsjE/edit?tab=t.0", "Summer25"],
          ["CSE460", "VLSI Design", "Integrated circuit design and fabrication basics.", "https://docs.google.com/spreadsheets/d/1roYj0Y8cjpidLb31Bg3n68_r4aJ6YXfE8HtoR6MgCM4/edit?gid=0#gid=0", "Summer26"],
-         ["CSE461", "Introduction to Robotics", "Kinematics, sensors and control.", "https://docs.google.com/spreadsheets/d/1SJISxezFT_MjvwO-PSxji63CZX45LpnKPP8t7eapcF0/edit?usp=sharing", "Fall26"],
+         ["CSE461", "Introduction to Robotics", "Kinematics, sensors and control.", "https://uk-roy.github.io/cse461/resources/#exercises-for-convolution", "Fall26"],
          ["CSE470", "Software Engineering", "Requirements, design, testing and project management.", "https://docs.google.com/document/d/10fYQSAZ5R5wpVcv_6iKoHm1ZK8jO3HD1-vFs1pDmJWc/edit?usp=sharing", "Spring25"],
          ["CSE471", "System Analysis and Design", "Modelling and designing information systems.", "https://docs.google.com/spreadsheets/d/1v3cG0BLTL8eg7wrR7DVQ6EcwiDWHe_I74TYsN_xfLzY/edit?usp=sharing", "Spring27"],
          ["PHY111", "Principles of Physics I", "Mechanics, waves and thermodynamics.", "https://docs.google.com/document/d/1H8GjpsXXHjN1toHG4HOG41SdWVnhXvKJj00DB9hpaBE/edit?usp=drive_link", "Fall23"],
