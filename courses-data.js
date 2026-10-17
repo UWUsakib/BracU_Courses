@@ -16,7 +16,7 @@ window.COURSES = {
          ["CSE340", "Computer Architecture", "Processor design, pipelining and memory hierarchy.", "https://docs.google.com/spreadsheets/d/1Vz5awPlZepfjS43PpVf83pc57WYxtnQNMMKHirwlB3s/edit?gid=0#gid=0", "Fall25"],
          ["CSE341", "Microprocessors", "Microprocessor architecture and assembly programming.", "https://docs.google.com/spreadsheets/d/1UFWSYazKKYuKEKJ403K1GI8wVcswg6dxPNB4_QVhpyc/edit?usp=sharing", "Spring26"],
          ["CSE350", "Digital Electronics and Pulse Techniques", "Digital ICs, timing and pulse circuits.", "https://docs.google.com/spreadsheets/d/1qRujeCqygZUIoiiUaudtRmyLC2tTDikAZ8LdlqMDUUM/edit?gid=0#gid=0", "Fall25"],
-         ["CSE360", "Computer Interfacing", "Connecting peripherals and hardware to computers.", "https://docs.google.com/spreadsheets/d/1SJISxezFT_MjvwO-PSxji63CZX45LpnKPP8t7eapcF0/edit?usp=sharing", "Fall26"],
+         ["CSE360", "Computer Interfacing", "Connecting peripherals and hardware to computers.", "https://docs.google.com/spreadsheets/d/1jRDDkZtda5M3AyvOEviOIaBE8MgW5rpGthXC0UbBYLU/edit?usp=sharing", "Fall26"],
          ["CSE370", "Database Systems", "Relational model, SQL, normalization, transactions.", "https://docs.google.com/spreadsheets/d/1jo_Jq4R1MF0UQBYQIml13_wsJxb8EbNdwtK5FC26Z6g/edit?usp=sharing", "Summer24"],
          ["CSE420", "Compiler Design", "Lexical analysis, parsing, semantic analysis and code generation.", "https://docs.google.com/spreadsheets/d/1CmOP4fd5Gv_jdtU3AGM7U6Q8O4oH8KXIuuygcL_BqqY/edit?usp=sharing", "Fall26"],
          ["CSE421", "Computer Networks", "Network layers, routing and protocols.", "https://docs.google.com/spreadsheets/d/1su8r3Kv90geso8VXVnFNc6Kb1u6lOvPch1dAgHIQZJg/edit?usp=sharing", "Spring26"],
